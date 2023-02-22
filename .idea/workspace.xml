@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1bb3aff-55fa-40d8-b0a5-50c3cd5912c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/giaiptbac1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hienthithoigianhethong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/khaibaosudungbien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kiemtranamnhuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/songaytrongthang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudungtoantu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tinhchisocannang.java" afterDir="false" />
-    </list>
+    <list default="true" id="f1bb3aff-55fa-40d8-b0a5-50c3cd5912c8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,6 +100,7 @@
       <workItem from="1676340897206" duration="418000" />
       <workItem from="1676341381628" duration="967000" />
       <workItem from="1676875505642" duration="10000" />
+      <workItem from="1677028907447" duration="1279000" />
     </task>
     <servers />
   </component>
